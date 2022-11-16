@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 np = "==1.0.2"
 numpy = "*"
+sympy = "*"
 
 [dev-packages]
 
